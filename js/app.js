@@ -29,7 +29,7 @@ const app = {
     isPlaying: false,
     isRepeat: false,
     isRandom: false,
-    config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
+    config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {"currentIndex":"0","isRepeat":"false","isRandom":"false"},
     songs: 
     [
         { 
