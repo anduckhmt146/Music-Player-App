@@ -10,8 +10,8 @@ Some tasks in my product:
  <br/>   6. Volume change
  <br/>   7. Next/Prev button
 <br/>    8. Random/Repeat button
-<br/>    8. Next/Repeat when ended song
- <br/>   9. Active playing song
-<br/>    10. Scroll active song into view
-<br/>    11. LocalStorage your last use.
+<br/>    9. Next/Repeat when ended song
+ <br/>   10. Active playing song
+<br/>    11. Scroll active song into view
+<br/>    12. LocalStorage your last use.
 <br/>Link: https://anduc146khmt.github.io/Music-Player-App/
