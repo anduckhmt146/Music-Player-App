@@ -1,7 +1,7 @@
 # Music Player App
-A Music Player App with some basic functions to help you relax.
+A Music Player App 1.0 with some basic functions, I will update advanced functions in the future. 
 <br/>
-Some tasks in my products:<br/> 
+Some tasks in my products: 
  <br/>   1. Render browers
   <br/>  2. Scrolling browsers
     <br/>3. Play song when click
