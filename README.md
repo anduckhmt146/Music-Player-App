@@ -1,17 +1,18 @@
 # Music Player App 1.0
 A Music Player App 1.0 with some basic functions, I will update advanced functions in the future. 
-<br/>
+# Function
 Some tasks in my product: 
- <br/>   1. Render browers
-  <br/>  2. Scrolling browsers
-    <br/>3. Play song when click
-  <br/>  4. Rotate disk when playing song
-  <br/>  5. Allow play, pause, seek and count up time when playing song
- <br/>   6. Volume change
- <br/>   7. Next/Prev button
-<br/>    8. Random/Repeat button
-<br/>    9. Next/Repeat when ended song
- <br/>   10. Active playing song
-<br/>    11. Scroll active song into view
-<br/>    12. LocalStorage your last use.
-<br/>Link: https://anduc146khmt.github.io/Music-Player-App/
+   1. Render browers
+   2. Scrolling browsers
+   3. Play song when click
+   4. Rotate disk when playing song
+   5. Allow play, pause, seek and count up time when playing song
+   6. Volume change
+   7. Next/Prev button
+   8. Random/Repeat button
+   9. Next/Repeat when ended song
+   10. Active playing song
+   11. Scroll active song into view
+   12. LocalStorage your last use.
+# Link 
+Link: https://anduc146khmt.github.io/Music-Player-App/
